@@ -1,0 +1,16 @@
+/* Write your CSS code here */
+.home-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+  padding: 30px;
+  margin: 0;
+}
+h1 {
+  font-size: 45px;
+  font-weight: 900;
+}
+button {
+  cursor: pointer;
+}

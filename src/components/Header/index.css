@@ -1,0 +1,31 @@
+/* Write your CSS code here */
+.nav-header {
+  font-family: 'Roboto';
+  padding: 10px;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+  margin: 0px;
+}
+.nav-content {
+  padding: 30px;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+  margin: 0px;
+}
+.nav-menu {
+  list-style-type: none;
+  padding: 10px;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+}
+.menu {
+  margin-left: 10px;
+  font-weight: 700;
+  font-size: 24px;
+  cursor: pointer;
+}
